@@ -33,11 +33,21 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
-4. #### Learn Data Visualization
+4. #### Learn Data Visualization (Est. time 1 Week)
         1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
         2. Seaborn - https://www.youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo
 
-5. #### Descriptive Statistics
+5. #### Descriptive Statistics (Est. time 4 Days)
         1. Statistics Playlist - https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1
+
+6. #### Learn Data Analysis Process (Est. time 1 week)
+        1. Playlist - https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD
+
+7. ### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
+       1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04
+       2. Univariate Analysis - https://www.youtube.com/watch?v=4HyTlbHUKSw
+       3. Bivariate and Multivariate Analysis - https://www.youtube.com/watch?v=6D3VtEfCw7w
+       4. Pandas Profiling - https://www.youtube.com/watch?v=E69Lg2ZgOxg
+
 
 
