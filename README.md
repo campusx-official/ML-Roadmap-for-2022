@@ -6,3 +6,10 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 2. ### Gaining Conceptual depth
 3. ### Learning Practical Concepts
 4. ### Diving into different domains
+
+
+## 1. Testing the waters
+
+The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
+
+
