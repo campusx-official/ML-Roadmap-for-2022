@@ -43,7 +43,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 6. #### Learn Data Analysis Process (Est. time 1 week)
         1. Playlist - https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD
 
-7. ### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
+7. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
        1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04
        2. Univariate Analysis - https://www.youtube.com/watch?v=4HyTlbHUKSw
        3. Bivariate and Multivariate Analysis - https://www.youtube.com/watch?v=6D3VtEfCw7w
