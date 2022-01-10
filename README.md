@@ -14,5 +14,8 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 
 1. #### Learn Python (Est. time - 2 weeks)
         1. Basics of Python - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
+        2. OOP in Python
+           - Lecture 1 - https://www.youtube.com/watch?v=1s869EfxoDo
+           - Lecture 2 - https://www.youtube.com/watch?v=8To-A6VPL90
 
 
