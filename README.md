@@ -60,5 +60,22 @@ The goal of this level is to get you familiar with the ML universe. You will lea
        14. EDA on Covid Data - https://www.youtube.com/watch?v=ll0aZVNnOP8
        15. WhatsApp Chat Analysis Project - https://www.youtube.com/watch?v=Q0QwvZKG_6Q
 
+8. #### Learn Machine Learning Basics
+        1. What is Machine Learning? https://www.youtube.com/watch?v=ZftI2fEz0Fw
+        2. AI vs ML vs DL https://www.youtube.com/watch?v=1v3_AQ26jZ0
+        3. Types of Machine Learning - https://www.youtube.com/watch?v=81ymPYEtFOw
+        4. Batch Machine Learning - https://www.youtube.com/watch?v=nPrhFxEuTYU
+        5. Online Machine Learning - https://www.youtube.com/watch?v=3oOipgCbLIk
+        6. Instance based vs Model based learning - https://www.youtube.com/watch?v=ntAOq1ioTKo
+        7. Challenges in Machine Learning - https://www.youtube.com/watch?v=WGUNAJki2S4
+        8. Applications of Machine Learning - https://www.youtube.com/watch?v=UZio8TcTMrI
+        9. Machine Learning Development Lifecycle - https://www.youtube.com/watch?v=iDbhQGz_rEo
+        10. Data Engineer V Data Analyst V Data Scientist V ML Engineer - https://www.youtube.com/watch?v=93rKZs0MkgU
+        11. How to frame a Machine Learning problem? - https://www.youtube.com/watch?v=A9SezQlvakw
+        12. Installing and using software for data science - https://www.youtube.com/watch?v=82P5N2m41jE
+        13. How to work with CSV files? - https://www.youtube.com/watch?v=a_XrmKlaGTs
+        14. Working with JSON and SQL data - https://www.youtube.com/watch?v=fFwRC-fapIU
+        15. Building an End to End Machine Learning Project - https://www.youtube.com/watch?v=dr7z7a_8lQw
+
 
 
