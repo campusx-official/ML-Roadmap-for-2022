@@ -13,9 +13,15 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
 
 1. #### Learn Python (Est. time - 2 weeks)
-        1. Basics of Python - (https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)
+        1. Basics of Python - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
         2. OOP in Python
-           - Lecture 1 - <https://www.youtube.com/watch?v=1s869EfxoDo>
-           - Lecture 2 - <https://www.youtube.com/watch?v=8To-A6VPL90>
+           - Lecture 1 - https://www.youtube.com/watch?v=1s869EfxoDo
+           - Lecture 2 - https://www.youtube.com/watch?v=8To-A6VPL90
+        3. Advance Topics
+           - File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0
+           - Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8
+           - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o
+           - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM
+           - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ
 
 
