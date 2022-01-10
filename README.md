@@ -86,16 +86,17 @@ The goal of this level is to learn the core machine learning concepts and algori
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
 2. #### Advance Statistics
 3. #### Linear Algebra Basics
-4. #### Machine Learning Algorithms
-        1. Linear Regression
-        2. Gradient Descent
+4. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
+5. #### Machine Learning Algorithms
+        1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
+        2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
         3. Logistic Regression
-        4. Support Vector Machines
-        5. Naive Bayes
-        6. K Nearest Neighbors
-        7. Decision Trees
+        4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL
+        5. Naive Bayes - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l
+        6. K Nearest Neighbors - https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd
+        7. Decision Trees - https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU
         8. Random Forest
-        9. Bagging
+        9. Bagging - https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn
         10. Adaboost
         11. Gradient Boosting
         12. Xgboost
@@ -104,6 +105,6 @@ The goal of this level is to learn the core machine learning concepts and algori
         15. Heirarchical Clustering
         16. DBSCAN
         17. T-sne
-5. #### Machine Learning Metrics
-6. #### Bias Variance Tradeoff
-7. #### Regularization
+6. #### Machine Learning Metrics
+7. #### Bias Variance Tradeoff
+8. #### Regularization
