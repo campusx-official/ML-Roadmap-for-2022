@@ -8,7 +8,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 4. ### Diving into different domains
 
 
-## 1. Testing the waters
+## 1. Testing the waters (Est. time 6-8 Weeks)
 
 The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
 
@@ -60,7 +60,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
        14. EDA on Covid Data - https://www.youtube.com/watch?v=ll0aZVNnOP8
        15. WhatsApp Chat Analysis Project - https://www.youtube.com/watch?v=Q0QwvZKG_6Q
 
-8. #### Learn Machine Learning Basics
+8. #### Learn Machine Learning Basics (Est. time 1 Week)
         1. What is Machine Learning? https://www.youtube.com/watch?v=ZftI2fEz0Fw
         2. AI vs ML vs DL https://www.youtube.com/watch?v=1v3_AQ26jZ0
         3. Types of Machine Learning - https://www.youtube.com/watch?v=81ymPYEtFOw
