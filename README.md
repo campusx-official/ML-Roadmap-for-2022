@@ -82,15 +82,26 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 
 The goal of this level is to learn the core machine learning concepts and algorithms
 
-1. #### Learn Python (Est. time - 2 weeks)
-        1. Basics of Python - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
-        2. OOP in Python
-           - Lecture 1 - https://www.youtube.com/watch?v=1s869EfxoDo
-           - Lecture 2 - https://www.youtube.com/watch?v=8To-A6VPL90
-        3. Advance Topics
-           - File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0
-           - Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8
-           - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o
-           - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM
-           - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ
-        4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing
+1. #### Learn about tensors (Est. time - 1 Day)
+        1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
+2. #### Advance Statistics
+3. #### Linear Algebra Basics
+4. #### Machine Learning Algorithms
+        1. Linear Regression
+        2. Gradient Descent
+        3. Logistic Regression
+        4. Support Vector Machines
+        5. Naive Bayes
+        6. K Nearest Neighbors
+        7. Decision Trees
+        8. Random Forest
+        9. Bagging
+        10. Adaboost
+        11. Gradient Boosting
+        12. Xgboost
+        13. Principle Component Analysis (PCA)
+        14. KMeans Clustering
+        15. Heirarchical Clustering
+        16. DBSCAN
+        17. T-sne
+5. #### Machine Learning Metrics
