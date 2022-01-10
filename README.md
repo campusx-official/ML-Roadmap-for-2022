@@ -105,3 +105,5 @@ The goal of this level is to learn the core machine learning concepts and algori
         16. DBSCAN
         17. T-sne
 5. #### Machine Learning Metrics
+6. #### Bias Variance Tradeoff
+7. #### Regularization
