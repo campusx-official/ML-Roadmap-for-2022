@@ -33,4 +33,11 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
+4. #### Learn Data Visualization
+        1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+        2. Seaborn - https://www.youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo
+
+5. #### Descriptive Statistics
+        1. Statistics Playlist - https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1
+
 
