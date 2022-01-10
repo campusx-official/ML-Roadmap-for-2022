@@ -84,7 +84,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 1. #### Learn about tensors (Est. time - 1 Day)
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
-2. #### Advance Statistics
+2. #### Advance Statistics and Probability
 3. #### Linear Algebra Basics
 4. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
 5. #### Machine Learning Algorithms
