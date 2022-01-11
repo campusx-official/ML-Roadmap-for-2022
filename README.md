@@ -102,8 +102,16 @@ The goal of this level is to learn the core machine learning concepts and algori
         7. Poission Distribution
         8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY
 5. #### Linear Algebra Basics
-6. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
-7. #### Machine Learning Algorithms
+        1. Representing Tabular Data
+        2. Vectors
+        3. Matrices
+        4. Matrix Multiplication
+        5. Dot Product
+        6. Equation of line in N-dim
+        7. Eigen Vector and Eigen Values
+        8. Playlist Link - https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA
+7. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
+8. #### Machine Learning Algorithms
         1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
         2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
         3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru
@@ -121,7 +129,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
         17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM
-8. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
-9. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
-10. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
-11. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
+9. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
+10. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
+11. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
+12. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
