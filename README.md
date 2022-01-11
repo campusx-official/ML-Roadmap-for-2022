@@ -105,6 +105,6 @@ The goal of this level is to learn the core machine learning concepts and algori
         15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
         17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM
-6. #### Machine Learning Metrics
+6. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
 7. #### Bias Variance Tradeoff
 8. #### Regularization
