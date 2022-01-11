@@ -93,9 +93,17 @@ The goal of this level is to learn the core machine learning concepts and algori
         6. Chisquare Test, Anova Test
         7. Playlist link - https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g 
 3. #### Probability Basics
-4. #### Linear Algebra Basics
-5. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
-6. #### Machine Learning Algorithms
+        1. Conditional Probability
+        2. Independent Events
+        3. Bayes Theorem
+        4. Uniform Distribution
+        5. Binomial Distribution
+        6. Bernaulli Distribution
+        7. Poission Distribution
+        8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY
+5. #### Linear Algebra Basics
+6. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
+7. #### Machine Learning Algorithms
         1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
         2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
         3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru
@@ -113,7 +121,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
         17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM
-7. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
-8. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
-9. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
-10. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
+8. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
+9. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
+10. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
+11. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
