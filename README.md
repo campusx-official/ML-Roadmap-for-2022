@@ -84,7 +84,14 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 1. #### Learn about tensors (Est. time - 1 Day)
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
-2. #### Advance Statistics and 
+2. #### Advance Statistics
+        1. Covariance
+        2. Pearson Correlation Coefficient
+        3. QQ Plot
+        4. Confidence Interval
+        5. Hypothesis Testing
+        6. Chisquare Test, Anova Test
+        7. Playlist link - https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g 
 3. #### Probability Basics
 4. #### Linear Algebra Basics
 5. #### Basics of Calculus(first 4 videos only) - https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
