@@ -108,3 +108,4 @@ The goal of this level is to learn the core machine learning concepts and algori
 6. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
 7. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
 8. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
+9. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
