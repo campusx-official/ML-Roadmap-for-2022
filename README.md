@@ -90,21 +90,21 @@ The goal of this level is to learn the core machine learning concepts and algori
 5. #### Machine Learning Algorithms
         1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
         2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
-        3. Logistic Regression
+        3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru
         4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL
         5. Naive Bayes - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l
         6. K Nearest Neighbors - https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd
         7. Decision Trees - https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU
-        8. Random Forest
+        8. Random Forest - https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp
         9. Bagging - https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn
-        10. Adaboost
-        11. Gradient Boosting
-        12. Xgboost
-        13. Principle Component Analysis (PCA)
-        14. KMeans Clustering
-        15. Heirarchical Clustering
-        16. DBSCAN
-        17. T-sne
+        10. Adaboost - https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6
+        11. Gradient Boosting - https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw
+        12. Xgboost - https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4
+        13. Principle Component Analysis (PCA) - https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD
+        14. KMeans Clustering - https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9
+        15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
+        16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
+        17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM
 6. #### Machine Learning Metrics
 7. #### Bias Variance Tradeoff
 8. #### Regularization
