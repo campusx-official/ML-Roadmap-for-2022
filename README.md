@@ -153,6 +153,7 @@ The goal of this level is to get you introduced to the practical side of machine
         4. Missing indicator - https://www.youtube.com/watch?v=Ratcir3p03w
         5. KNN Imputer - https://www.youtube.com/watch?v=-fK-xEev2I8
         6. MICE - https://www.youtube.com/watch?v=a38ehxv3kyk
+        7. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
 5. #### Feature Scaling/Normalization
 6. #### Feature Encoding Techniques
 7. #### Feature Transformation
