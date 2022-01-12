@@ -142,19 +142,23 @@ The goal of this level is to learn the core machine learning concepts and algori
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
 
 1. #### Data Acquisition (Est. time - 1 Day)
-2. #### Working with missing values
-3. #### Feature Scaling/Normalization
-4. #### Feature Encoding Techniques
-5. #### Feature Transformation
-6. #### Working with Pipelines
-7. #### Handing Time and Date data
-8. #### Working with Outliers
-9. #### Feature Construction
-10. #### Feature Selection
-11. #### Feature Extraction
-12. #### Cross Validation
-13. #### Model Tuning and Selection
-14. #### Handling Overfitting
-15. #### Working with imbalanced data
-16. #### Data Leakage
-17. #### Serving your model
+        1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988
+                - Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
+        3. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
+                - Project - Create a Pandas dataframe of movies from TMDB API.
+3. #### Working with missing values
+4. #### Feature Scaling/Normalization
+5. #### Feature Encoding Techniques
+6. #### Feature Transformation
+7. #### Working with Pipelines
+8. #### Handing Time and Date data
+9. #### Working with Outliers
+10. #### Feature Construction
+11. #### Feature Selection
+12. #### Feature Extraction
+13. #### Cross Validation
+14. #### Model Tuning and Selection
+15. #### Handling Overfitting
+16. #### Working with imbalanced data
+17. #### Data Leakage
+18. #### Serving your model
