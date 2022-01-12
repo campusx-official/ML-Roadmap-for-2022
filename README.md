@@ -163,17 +163,37 @@ The goal of this level is to get you introduced to the practical side of machine
         3. Encoding high cardinality categorical features - https://www.kaggle.com/general/16927
         4. Feature hashing - https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/
 9. #### Feature Transformation
-10. #### Working with Pipelines
-11. #### Handing Time and Date data
-12. #### Working with Outliers
-13. #### Feature Construction
-14. #### Feature Selection
-15. #### Feature Extraction
-16. #### Cross Validation
-17. #### Modelling - Stacking and Blending
-18. #### Model Tuning and Selection
-19. #### Handling Overfitting
-20. #### Working with imbalanced data
-21. #### Handling Multicollinearity
-22. #### Data Leakage
-23. #### Serving your model
+        1. Log Transform - https://www.youtube.com/watch?v=cTjj3LE8E90
+        2. Box Cox Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
+        3. Yeo Johnson Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
+        4. Discretization - https://www.youtube.com/watch?v=kKWsJGKcMvo
+11. #### Working with Pipelines
+        1. Column Transformer - https://www.youtube.com/watch?v=5TVj6iEBR4I
+        2. Sklearn Pipelines - https://www.youtube.com/watch?v=xOccYkgRV4Q
+13. #### Handing Time and Date data
+        1. Working with time and date data - https://www.youtube.com/watch?v=J73mvgG9fFs
+15. #### Working with Outliers
+        1. What are Outliers? - https://www.youtube.com/watch?v=Lln1PKgGr_M
+        2. Outlier detection and removal using Z-score method - https://www.youtube.com/watch?v=OnPE-Z8jtqM
+        3. Outlier detection and removal using IQR method - https://www.youtube.com/watch?v=Ccv1-W5ilak
+        4. Percentile method - https://www.youtube.com/watch?v=bcXA4CqRXvM
+17. #### Feature Construction
+        1. Feature Construction - https://www.youtube.com/watch?v=ma-h30PoFms
+19. #### Feature Selection
+20. #### Feature Extraction
+21. #### Cross Validation
+22. #### Modelling - Stacking and Blending
+         1. Stacking - https://www.youtube.com/watch?v=O-aDHBGMqXA
+24. #### Model Tuning and Selection
+25. #### Handling Overfitting
+26. #### Working with imbalanced data
+27. #### Handling Multicollinearity
+28. #### Data Leakage
+29. #### Serving your model
+         1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
+         2. Flask Tutorial - https://www.youtube.com/watch?v=swHI1H7DVsQ
+         3. Deploy model on Heroku - https://www.youtube.com/watch?v=YncZ0WwxyzU
+         4. Deploy model on AWS - https://www.youtube.com/watch?v=_rwNTY5Mn40
+         5. Deploy model to GCP
+         6. Deploy model to Azure
+         7. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
