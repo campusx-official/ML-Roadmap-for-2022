@@ -155,19 +155,21 @@ The goal of this level is to get you introduced to the practical side of machine
         6. MICE - https://www.youtube.com/watch?v=a38ehxv3kyk
         7. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
 5. #### Feature Scaling/Normalization
-6. #### Feature Encoding Techniques
-7. #### Feature Transformation
-8. #### Working with Pipelines
-9. #### Handing Time and Date data
-10. #### Working with Outliers
-11. #### Feature Construction
-12. #### Feature Selection
-13. #### Feature Extraction
-14. #### Cross Validation
-15. #### Modelling - Stacking and Blending
-16. #### Model Tuning and Selection
-17. #### Handling Overfitting
-18. #### Working with imbalanced data
-19. #### Handling Multicollinearity
-20. #### Data Leakage
-21. #### Serving your model
+        1. Standarization - https://www.youtube.com/watch?v=1Yw9sC0PNwY
+        2. Normalization - https://www.youtube.com/watch?v=eBrGyuA2MIg
+7. #### Feature Encoding Techniques
+8. #### Feature Transformation
+9. #### Working with Pipelines
+10. #### Handing Time and Date data
+11. #### Working with Outliers
+12. #### Feature Construction
+13. #### Feature Selection
+14. #### Feature Extraction
+15. #### Cross Validation
+16. #### Modelling - Stacking and Blending
+17. #### Model Tuning and Selection
+18. #### Handling Overfitting
+19. #### Working with imbalanced data
+20. #### Handling Multicollinearity
+21. #### Data Leakage
+22. #### Serving your model
