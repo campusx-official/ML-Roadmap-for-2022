@@ -192,8 +192,9 @@ The goal of this level is to get you introduced to the practical side of machine
 29. #### Serving your model
          1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
          2. Flask Tutorial - https://www.youtube.com/watch?v=swHI1H7DVsQ
-         3. Deploy model on Heroku - https://www.youtube.com/watch?v=YncZ0WwxyzU
-         4. Deploy model on AWS - https://www.youtube.com/watch?v=_rwNTY5Mn40
-         5. Deploy model to GCP
-         6. Deploy model to Azure
-         7. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
+         3. Streamlit Tutorial - https://www.youtube.com/watch?v=Klqn--Mu2pE
+         4. Deploy model on Heroku - https://www.youtube.com/watch?v=YncZ0WwxyzU
+         5. Deploy model on AWS - https://www.youtube.com/watch?v=_rwNTY5Mn40
+         6. Deploy model to GCP
+         7. Deploy model to Azure
+         8. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
