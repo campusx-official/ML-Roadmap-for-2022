@@ -143,9 +143,9 @@ The goal of this level is to get you introduced to the practical side of machine
 
 1. #### Data Acquisition (Est. time - 1 Day)
         1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988
-                - Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
-        3. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
-                - Project - Create a Pandas dataframe of movies from TMDB API.
+                * Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
+        2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
+                * Project - Create a Pandas dataframe of movies from TMDB API.
 3. #### Working with missing values
 4. #### Feature Scaling/Normalization
 5. #### Feature Encoding Techniques
