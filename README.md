@@ -140,3 +140,21 @@ The goal of this level is to learn the core machine learning concepts and algori
 ## 3. Learn Practical Concepts (Est. time 6-8 Weeks)
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
+
+1. #### Data Acquisition (Est. time - 1 Day)
+2. #### Working with missing values
+3. #### Feature Scaling/Normalization
+4. #### Feature Encoding Techniques
+5. #### Feature Transformation
+6. #### Working with Pipelines
+7. #### Handing Time and Date data
+8. #### Working with Outliers
+9. #### Feature Construction
+10. #### Feature Selection
+11. #### Feature Extraction
+12. #### Cross Validation
+13. #### Model Tuning and Selection
+14. #### Handling Overfitting
+15. #### Working with imbalanced data
+16. #### Data Leakage
+17. #### Serving your model
