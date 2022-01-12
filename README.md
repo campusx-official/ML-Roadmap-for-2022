@@ -164,9 +164,10 @@ The goal of this level is to get you introduced to the practical side of machine
 12. #### Feature Selection
 13. #### Feature Extraction
 14. #### Cross Validation
-15. #### Model Tuning and Selection
-16. #### Handling Overfitting
-17. #### Working with imbalanced data
-18. #### Handling Multicollinearity
-19. #### Data Leakage
-20. #### Serving your model
+15. #### Modelling - Stacking and Blending
+16. #### Model Tuning and Selection
+17. #### Handling Overfitting
+18. #### Working with imbalanced data
+19. #### Handling Multicollinearity
+20. #### Data Leakage
+21. #### Serving your model
