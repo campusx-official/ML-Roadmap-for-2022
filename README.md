@@ -166,5 +166,6 @@ The goal of this level is to get you introduced to the practical side of machine
 15. #### Model Tuning and Selection
 16. #### Handling Overfitting
 17. #### Working with imbalanced data
-18. #### Data Leakage
-19. #### Serving your model
+18. #### Handling Multicollinearity
+19. #### Data Leakage
+20. #### Serving your model
