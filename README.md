@@ -158,18 +158,22 @@ The goal of this level is to get you introduced to the practical side of machine
         1. Standarization - https://www.youtube.com/watch?v=1Yw9sC0PNwY
         2. Normalization - https://www.youtube.com/watch?v=eBrGyuA2MIg
 7. #### Feature Encoding Techniques
-8. #### Feature Transformation
-9. #### Working with Pipelines
-10. #### Handing Time and Date data
-11. #### Working with Outliers
-12. #### Feature Construction
-13. #### Feature Selection
-14. #### Feature Extraction
-15. #### Cross Validation
-16. #### Modelling - Stacking and Blending
-17. #### Model Tuning and Selection
-18. #### Handling Overfitting
-19. #### Working with imbalanced data
-20. #### Handling Multicollinearity
-21. #### Data Leakage
-22. #### Serving your model
+        1. Ordinal Enconding and Label Encoding - https://www.youtube.com/watch?v=w2GglmYHfmM
+        2. One Hot Encoding - https://www.youtube.com/watch?v=U5oCv3JKWKA
+        3. Encoding high cardinality categorical features - https://www.kaggle.com/general/16927
+        4. Feature hashing - https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/
+9. #### Feature Transformation
+10. #### Working with Pipelines
+11. #### Handing Time and Date data
+12. #### Working with Outliers
+13. #### Feature Construction
+14. #### Feature Selection
+15. #### Feature Extraction
+16. #### Cross Validation
+17. #### Modelling - Stacking and Blending
+18. #### Model Tuning and Selection
+19. #### Handling Overfitting
+20. #### Working with imbalanced data
+21. #### Handling Multicollinearity
+22. #### Data Leakage
+23. #### Serving your model
