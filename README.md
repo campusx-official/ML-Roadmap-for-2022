@@ -147,18 +147,24 @@ The goal of this level is to get you introduced to the practical side of machine
         2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
                 * Project - Create a Pandas dataframe of movies from TMDB API.
 3. #### Working with missing values
-4. #### Feature Scaling/Normalization
-5. #### Feature Encoding Techniques
-6. #### Feature Transformation
-7. #### Working with Pipelines
-8. #### Handing Time and Date data
-9. #### Working with Outliers
-10. #### Feature Construction
-11. #### Feature Selection
-12. #### Feature Extraction
-13. #### Cross Validation
-14. #### Model Tuning and Selection
-15. #### Handling Overfitting
-16. #### Working with imbalanced data
-17. #### Data Leakage
-18. #### Serving your model
+        1. Complete Case Analysis - https://www.youtube.com/watch?v=aUnNWZorGmk
+        2. Handling missing numerical data - https://www.youtube.com/watch?v=mCL2xLBDw8M
+        3. Handling missing categorical data - https://www.youtube.com/watch?v=l_Wip8bEDFQ
+        4. Missing indicator - https://www.youtube.com/watch?v=Ratcir3p03w
+        5. KNN Imputer - https://www.youtube.com/watch?v=-fK-xEev2I8
+        6. MICE - https://www.youtube.com/watch?v=a38ehxv3kyk
+5. #### Feature Scaling/Normalization
+6. #### Feature Encoding Techniques
+7. #### Feature Transformation
+8. #### Working with Pipelines
+9. #### Handing Time and Date data
+10. #### Working with Outliers
+11. #### Feature Construction
+12. #### Feature Selection
+13. #### Feature Extraction
+14. #### Cross Validation
+15. #### Model Tuning and Selection
+16. #### Handling Overfitting
+17. #### Working with imbalanced data
+18. #### Data Leakage
+19. #### Serving your model
