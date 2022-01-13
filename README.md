@@ -191,9 +191,12 @@ The goal of this level is to get you introduced to the practical side of machine
          2. Blending - https://www.youtube.com/watch?v=TuIgtitqJho
          3. LightGBM - https://www.youtube.com/watch?v=n_ZMQj09S6w
          4. CatBoost - https://www.youtube.com/watch?v=8o0e-r0B5xQ
-24. #### Model Tuning and Selection
-25. #### Handling Overfitting
-26. #### Working with imbalanced data
+24. #### Model Tuning
+         1. GridSearchCV - https://www.youtube.com/watch?v=4Im0CT43QxY
+         2. RandomSearchCV - https://www.youtube.com/watch?v=Q5dH5mOQ_ik
+         3. Hyperparameter Tuning - https://www.youtube.com/watch?v=355u2bDqB7c
+26. #### Handling Overfitting
+27. #### Working with imbalanced data
          1. How to handle imbalanced data - https://www.youtube.com/watch?v=JnlM4yLFNuo
          2. Kaggle Notebook - https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
          3. SMOTE on Quora Dataset - https://www.kaggle.com/theoviel/dealing-with-class-imbalance-with-smote
