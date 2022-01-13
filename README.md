@@ -188,6 +188,9 @@ The goal of this level is to get you introduced to the practical side of machine
          5. Time series cross validation - https://www.youtube.com/watch?v=g9iO2AwTXyI
 23. #### Modelling - Stacking and Blending
          1. Stacking - https://www.youtube.com/watch?v=O-aDHBGMqXA
+         2. Blending - https://www.youtube.com/watch?v=TuIgtitqJho
+         3. LightGBM - https://www.youtube.com/watch?v=n_ZMQj09S6w
+         4. CatBoost - https://www.youtube.com/watch?v=8o0e-r0B5xQ
 24. #### Model Tuning and Selection
 25. #### Handling Overfitting
 26. #### Working with imbalanced data
