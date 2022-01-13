@@ -186,7 +186,10 @@ The goal of this level is to get you introduced to the practical side of machine
 24. #### Model Tuning and Selection
 25. #### Handling Overfitting
 26. #### Working with imbalanced data
-27. #### Handling Multicollinearity
+         1. How to handle imbalanced data - https://www.youtube.com/watch?v=JnlM4yLFNuo
+         2. Kaggle Notebook - https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
+         3. SMOTE on Quora Dataset - https://www.kaggle.com/theoviel/dealing-with-class-imbalance-with-smote
+28. #### Handling Multicollinearity
          1. What is multicollinearity? - https://www.youtube.com/watch?v=ekuD8JUdL6M
          2. Practical Example - https://www.youtube.com/watch?v=ATH4urDitI8
          3. VIF in Multicollinearity - https://www.youtube.com/watch?v=GMAp_tP1ZQ0
