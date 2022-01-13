@@ -180,6 +180,12 @@ The goal of this level is to get you introduced to the practical side of machine
 17. #### Feature Construction
         1. Feature Construction - https://www.youtube.com/watch?v=ma-h30PoFms
 19. #### Feature Selection
+         1. Feature selection using SelectKBest and Recursive Feature Elimination - https://www.youtube.com/watch?v=xlHk4okO8Ls&t=1s
+         2. Chi-squared Feature Selection - https://www.youtube.com/watch?v=fMIwIKLGke0
+         3. Backward Feature Elimination - https://www.youtube.com/watch?v=zW1SvA0Z-l4&t=2s
+         4. Dropping features using Pearson correlation coefficient - https://www.youtube.com/watch?v=FndwYNcVe0U
+         5. Feature Importance using Random Forest - https://www.youtube.com/watch?v=R47JAob1xBY
+         6. Feature Selection Advise - https://www.youtube.com/watch?v=YaKMeAlHgqQ
 21. #### Cross Validation
          1. What is cross-validation? - https://www.youtube.com/watch?v=fSytzGwwBVw
          2. Holdout Method - https://www.youtube.com/watch?v=4NnI3SBuww4
