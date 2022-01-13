@@ -181,7 +181,12 @@ The goal of this level is to get you introduced to the practical side of machine
         1. Feature Construction - https://www.youtube.com/watch?v=ma-h30PoFms
 19. #### Feature Selection
 21. #### Cross Validation
-22. #### Modelling - Stacking and Blending
+         1. What is cross-validation? - https://www.youtube.com/watch?v=fSytzGwwBVw
+         2. Holdout Method - https://www.youtube.com/watch?v=4NnI3SBuww4
+         3. K-Fold Cross Validation - https://www.youtube.com/watch?v=gJo0uNL-5Qw
+         4. Leave 1 Out Cross Validation - https://www.youtube.com/watch?v=yxqcHWQKkdA
+         5. Time series cross validation - https://www.youtube.com/watch?v=g9iO2AwTXyI
+23. #### Modelling - Stacking and Blending
          1. Stacking - https://www.youtube.com/watch?v=O-aDHBGMqXA
 24. #### Model Tuning and Selection
 25. #### Handling Overfitting
