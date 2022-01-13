@@ -187,7 +187,10 @@ The goal of this level is to get you introduced to the practical side of machine
 25. #### Handling Overfitting
 26. #### Working with imbalanced data
 27. #### Handling Multicollinearity
-28. #### Data Leakage - 
+         1. What is multicollinearity? - https://www.youtube.com/watch?v=ekuD8JUdL6M
+         2. Practical Example - https://www.youtube.com/watch?v=ATH4urDitI8
+         3. VIF in Multicollinearity - https://www.youtube.com/watch?v=GMAp_tP1ZQ0
+29. #### Data Leakage - 
          1. What is Data Leakage? - https://machinelearningmastery.com/data-leakage-machine-learning/
          2. Practical - Data Leakage on Quora Question Pair Dataset - https://www.kaggle.com/sudalairajkumar/simple-leaky-exploration-notebook-quora
          3. Practical - Data Leakage on Credit Card data - https://www.kaggle.com/dansbecker/data-leakage
