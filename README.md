@@ -141,12 +141,12 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
 
-1. #### Data Acquisition (Est. time - 1 Day)
+1. #### Data Acquisition (Est. time - 2 Days)
         1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988
                 * Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
         2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
                 * Project - Create a Pandas dataframe of movies from TMDB API.
-3. #### Working with missing values
+3. #### Working with missing values (Est. time - 3 Days)
         1. Complete Case Analysis - https://www.youtube.com/watch?v=aUnNWZorGmk
         2. Handling missing numerical data - https://www.youtube.com/watch?v=mCL2xLBDw8M
         3. Handling missing categorical data - https://www.youtube.com/watch?v=l_Wip8bEDFQ
@@ -154,66 +154,66 @@ The goal of this level is to get you introduced to the practical side of machine
         5. KNN Imputer - https://www.youtube.com/watch?v=-fK-xEev2I8
         6. MICE - https://www.youtube.com/watch?v=a38ehxv3kyk
         7. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
-5. #### Feature Scaling/Normalization
+5. #### Feature Scaling/Normalization (Est. time - 2 Days)
         1. Standarization - https://www.youtube.com/watch?v=1Yw9sC0PNwY
         2. Normalization - https://www.youtube.com/watch?v=eBrGyuA2MIg
-7. #### Feature Encoding Techniques
+7. #### Feature Encoding Techniques (Est. time - 2 Days)
         1. Ordinal Enconding and Label Encoding - https://www.youtube.com/watch?v=w2GglmYHfmM
         2. One Hot Encoding - https://www.youtube.com/watch?v=U5oCv3JKWKA
         3. Encoding high cardinality categorical features - https://www.kaggle.com/general/16927
         4. Feature hashing - https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/
-9. #### Feature Transformation
+9. #### Feature Transformation(Est. time - 2 Days)
         1. Log Transform - https://www.youtube.com/watch?v=cTjj3LE8E90
         2. Box Cox Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
         3. Yeo Johnson Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
         4. Discretization - https://www.youtube.com/watch?v=kKWsJGKcMvo
-11. #### Working with Pipelines
+11. #### Working with Pipelines(Est. time - 2 Days)
         1. Column Transformer - https://www.youtube.com/watch?v=5TVj6iEBR4I
         2. Sklearn Pipelines - https://www.youtube.com/watch?v=xOccYkgRV4Q
-13. #### Handing Time and Date data
+13. #### Handing Time and Date data(Est. time - 1 Day)
         1. Working with time and date data - https://www.youtube.com/watch?v=J73mvgG9fFs
-15. #### Working with Outliers
+15. #### Working with Outliers (Est. time - 3 Days)
         1. What are Outliers? - https://www.youtube.com/watch?v=Lln1PKgGr_M
         2. Outlier detection and removal using Z-score method - https://www.youtube.com/watch?v=OnPE-Z8jtqM
         3. Outlier detection and removal using IQR method - https://www.youtube.com/watch?v=Ccv1-W5ilak
         4. Percentile method - https://www.youtube.com/watch?v=bcXA4CqRXvM
-17. #### Feature Construction
+17. #### Feature Construction (Est. time - 1 Day)
         1. Feature Construction - https://www.youtube.com/watch?v=ma-h30PoFms
-19. #### Feature Selection
+19. #### Feature Selection (Est. time - 3 Days)
          1. Feature selection using SelectKBest and Recursive Feature Elimination - https://www.youtube.com/watch?v=xlHk4okO8Ls&t=1s
          2. Chi-squared Feature Selection - https://www.youtube.com/watch?v=fMIwIKLGke0
          3. Backward Feature Elimination - https://www.youtube.com/watch?v=zW1SvA0Z-l4&t=2s
          4. Dropping features using Pearson correlation coefficient - https://www.youtube.com/watch?v=FndwYNcVe0U
          5. Feature Importance using Random Forest - https://www.youtube.com/watch?v=R47JAob1xBY
          6. Feature Selection Advise - https://www.youtube.com/watch?v=YaKMeAlHgqQ
-21. #### Cross Validation
+21. #### Cross Validation (Est. time - 2 Days)
          1. What is cross-validation? - https://www.youtube.com/watch?v=fSytzGwwBVw
          2. Holdout Method - https://www.youtube.com/watch?v=4NnI3SBuww4
          3. K-Fold Cross Validation - https://www.youtube.com/watch?v=gJo0uNL-5Qw
          4. Leave 1 Out Cross Validation - https://www.youtube.com/watch?v=yxqcHWQKkdA
          5. Time series cross validation - https://www.youtube.com/watch?v=g9iO2AwTXyI
-23. #### Modelling - Stacking and Blending
+23. #### Modelling - Stacking and Blending (Est. time - 1 Week)
          1. Stacking - https://www.youtube.com/watch?v=O-aDHBGMqXA
          2. Blending - https://www.youtube.com/watch?v=TuIgtitqJho
          3. LightGBM - https://www.youtube.com/watch?v=n_ZMQj09S6w
          4. CatBoost - https://www.youtube.com/watch?v=8o0e-r0B5xQ
-24. #### Model Tuning
+24. #### Model Tuning (Est. time - 4 Days)
          1. GridSearchCV - https://www.youtube.com/watch?v=4Im0CT43QxY
          2. RandomSearchCV - https://www.youtube.com/watch?v=Q5dH5mOQ_ik
          3. Hyperparameter Tuning - https://www.youtube.com/watch?v=355u2bDqB7c
-27. #### Working with imbalanced data
+27. #### Working with imbalanced data (Est. time - 3 Days)
          1. How to handle imbalanced data - https://www.youtube.com/watch?v=JnlM4yLFNuo
          2. Kaggle Notebook - https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
          3. SMOTE on Quora Dataset - https://www.kaggle.com/theoviel/dealing-with-class-imbalance-with-smote
-28. #### Handling Multicollinearity
+28. #### Handling Multicollinearity(Est. time - 2 Days)
          1. What is multicollinearity? - https://www.youtube.com/watch?v=ekuD8JUdL6M
          2. Practical Example - https://www.youtube.com/watch?v=ATH4urDitI8
          3. VIF in Multicollinearity - https://www.youtube.com/watch?v=GMAp_tP1ZQ0
-29. #### Data Leakage - 
+29. #### Data Leakage - (Est. time - 2 Days) 
          1. What is Data Leakage? - https://machinelearningmastery.com/data-leakage-machine-learning/
          2. Practical - Data Leakage on Quora Question Pair Dataset - https://www.kaggle.com/sudalairajkumar/simple-leaky-exploration-notebook-quora
          3. Practical - Data Leakage on Credit Card data - https://www.kaggle.com/dansbecker/data-leakage
-30. #### Serving your model
+30. #### Serving your model(Est. time - 1 Week)
          1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
          2. Flask Tutorial - https://www.youtube.com/watch?v=swHI1H7DVsQ
          3. Streamlit Tutorial - https://www.youtube.com/watch?v=Klqn--Mu2pE
