@@ -195,7 +195,6 @@ The goal of this level is to get you introduced to the practical side of machine
          1. GridSearchCV - https://www.youtube.com/watch?v=4Im0CT43QxY
          2. RandomSearchCV - https://www.youtube.com/watch?v=Q5dH5mOQ_ik
          3. Hyperparameter Tuning - https://www.youtube.com/watch?v=355u2bDqB7c
-26. #### Handling Overfitting
 27. #### Working with imbalanced data
          1. How to handle imbalanced data - https://www.youtube.com/watch?v=JnlM4yLFNuo
          2. Kaggle Notebook - https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
