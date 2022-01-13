@@ -180,7 +180,6 @@ The goal of this level is to get you introduced to the practical side of machine
 17. #### Feature Construction
         1. Feature Construction - https://www.youtube.com/watch?v=ma-h30PoFms
 19. #### Feature Selection
-20. #### Feature Extraction
 21. #### Cross Validation
 22. #### Modelling - Stacking and Blending
          1. Stacking - https://www.youtube.com/watch?v=O-aDHBGMqXA
@@ -188,13 +187,16 @@ The goal of this level is to get you introduced to the practical side of machine
 25. #### Handling Overfitting
 26. #### Working with imbalanced data
 27. #### Handling Multicollinearity
-28. #### Data Leakage
-29. #### Serving your model
+28. #### Data Leakage - 
+         1. What is Data Leakage? - https://machinelearningmastery.com/data-leakage-machine-learning/
+         2. Practical - Data Leakage on Quora Question Pair Dataset - https://www.kaggle.com/sudalairajkumar/simple-leaky-exploration-notebook-quora
+         3. Practical - Data Leakage on Credit Card data - https://www.kaggle.com/dansbecker/data-leakage
+30. #### Serving your model
          1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
          2. Flask Tutorial - https://www.youtube.com/watch?v=swHI1H7DVsQ
          3. Streamlit Tutorial - https://www.youtube.com/watch?v=Klqn--Mu2pE
          4. Deploy model on Heroku - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Deploy model on AWS - https://www.youtube.com/watch?v=_rwNTY5Mn40
-         6. Deploy model to GCP
-         7. Deploy model to Azure
+         6. Deploy model to GCP - https://www.youtube.com/watch?v=fw6NMQrYc6w
+         7. Deploy model to Azure - https://www.youtube.com/watch?v=qnbJcbjh-3s
          8. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
