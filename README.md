@@ -222,6 +222,9 @@ The goal of this level is to get you introduced to the practical side of machine
          6. Deploy model to GCP - https://www.youtube.com/watch?v=fw6NMQrYc6w
          7. Deploy model to Azure - https://www.youtube.com/watch?v=qnbJcbjh-3s
          8. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
+ 6. #### Working with Large Datasets
+ 
+ 
 ## 4. Diving into different domains (Est. time 6-8 Weeks)
 
 This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
@@ -231,5 +234,5 @@ This is the level where you would dive into different domains of Machine Learnin
 3. #### Association Rule Learning
 4. #### Anamoly Detection
 5. #### NLP
-6. #### Working with Large Datasets
+
 
