@@ -257,5 +257,15 @@ This is the level where you would dive into different domains of Machine Learnin
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
+The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
+
+1. Car Price Predictor - https://www.youtube.com/watch?v=iRCaMnR_bpA
+2. Banglore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
+3. Posture Detection using ML5.js - https://www.youtube.com/watch?v=kRvIcdLhDtU
+4. Laptop Price Predictor - https://www.youtube.com/watch?v=BgpM2IiCH6k
+5. Which bollywood celebrity are you? - https://www.youtube.com/watch?v=X67rclJcIL0
+6. Finding similar GOT characters - https://www.youtube.com/watch?v=ygGknomFEWY
+7. IPL win probability predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+8. T20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
 
 
