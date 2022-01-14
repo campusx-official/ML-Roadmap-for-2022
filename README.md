@@ -6,6 +6,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 2. ### Gaining Conceptual depth
 3. ### Learning Practical Concepts
 4. ### Diving into different domains
+5. ### Pushing it with Projects
 
 
 ## 1. Testing the waters (Est. time 6-8 Weeks)
@@ -234,5 +235,7 @@ This is the level where you would dive into different domains of Machine Learnin
 3. #### Association Rule Learning
 4. #### Anamoly Detection
 5. #### NLP
+
+## 5. Pushing it with Projects (Est. time 6-8 Weeks)
 
 
