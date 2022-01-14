@@ -259,13 +259,23 @@ This is the level where you would dive into different domains of Machine Learnin
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
 The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
 
-1. Car Price Predictor - https://www.youtube.com/watch?v=iRCaMnR_bpA
-2. Banglore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
-3. Posture Detection using ML5.js - https://www.youtube.com/watch?v=kRvIcdLhDtU
-4. Laptop Price Predictor - https://www.youtube.com/watch?v=BgpM2IiCH6k
-5. Which bollywood celebrity are you? - https://www.youtube.com/watch?v=X67rclJcIL0
-6. Finding similar GOT characters - https://www.youtube.com/watch?v=ygGknomFEWY
-7. IPL win probability predictor - https://www.youtube.com/watch?v=ygGknomFEWY
-8. T20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+1. 8 types of Projects for your portfolio - https://www.youtube.com/watch?v=SQHfry4xmdM
+2. How to select a project - https://www.youtube.com/watch?v=kH--k1VKFt4
+3. Car Price Predictor - https://www.youtube.com/watch?v=iRCaMnR_bpA
+4. Banglore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
+5. Posture Detection using ML5.js - https://www.youtube.com/watch?v=kRvIcdLhDtU
+6. Laptop Price Predictor - https://www.youtube.com/watch?v=BgpM2IiCH6k
+7. Which bollywood celebrity are you? - https://www.youtube.com/watch?v=X67rclJcIL0
+8. Finding similar GOT characters - https://www.youtube.com/watch?v=ygGknomFEWY
+9. IPL win probability predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+10. T20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+11. Titanic Survivor Prediction - https://www.youtube.com/watch?v=Bnp94fpxZjY
+12. Diabetes Prediction using ML - https://www.youtube.com/watch?v=xUE7SjVx9bQ
+13. Fake news prediction - https://www.youtube.com/watch?v=nacLBdyG6jE
+14. Loan Status Prediction - https://www.youtube.com/watch?v=XckM1pFgZmg
+15. Gold Price Prediction - https://www.youtube.com/watch?v=9ffkBvh8PTQ
+16. Handwriting Classifier - https://www.youtube.com/watch?v=1B3YIkyPNk0
+17. Flight Fare Prediction - https://www.youtube.com/watch?v=y4EMEpEnElQ
+18. Link for 500+ ML+DL projects - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 
