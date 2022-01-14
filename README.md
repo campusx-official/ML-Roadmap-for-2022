@@ -226,6 +226,7 @@ The goal of this level is to get you introduced to the practical side of machine
  6. #### Working with Large Datasets
          1. What is Out of core ML? - https://www.youtube.com/watch?v=9e4nUuq2Hmg
          2. Practical implementation of Out of core ML - https://www.youtube.com/watch?v=sRCuvcdvuzk
+         3. NYC Cab Dataset Project - https://vaex.io/blog/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your
  
  
 ## 4. Diving into different domains (Est. time 6-8 Weeks)
