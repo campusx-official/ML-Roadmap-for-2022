@@ -224,6 +224,8 @@ The goal of this level is to get you introduced to the practical side of machine
          7. Deploy model to Azure - https://www.youtube.com/watch?v=qnbJcbjh-3s
          8. ML model to Android App - https://www.youtube.com/watch?v=ax3WyB-_LJY
  6. #### Working with Large Datasets
+         1. What is Out of core ML? - https://www.youtube.com/watch?v=9e4nUuq2Hmg
+         2. Practical implementation of Out of core ML - https://www.youtube.com/watch?v=sRCuvcdvuzk
  
  
 ## 4. Diving into different domains (Est. time 6-8 Weeks)
