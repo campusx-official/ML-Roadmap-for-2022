@@ -234,7 +234,7 @@ The goal of this level is to get you introduced to the practical side of machine
 This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
 
 1. #### SQL (Est. time - 2 Days)
-        1. Complete SQL Roadmap - https://www.youtube.com/watch?v=PKv_okm1H-k
+        1. Complete SQL Roadmap - https://www.youtube.com/watch?v=FGBme8dWR_M
         2. SQL learning resources - https://docs.google.com/document/d/1wCALgWubTOvuvlXJ3Eweh7AgJj4sPq2pW92y3viPZbs/edit?usp=sharing
         3. The only video you need to see - https://www.youtube.com/watch?v=nopIGY1zJE0
 3. #### Recommendation Systems
