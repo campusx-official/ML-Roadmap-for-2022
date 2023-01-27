@@ -254,9 +254,9 @@ This is the level where you would dive into different domains of Machine Learnin
          3. NLP Project Ideas - https://www.youtube.com/watch?v=oWJe2T29kAo
          4. Email Spam Classifier Project - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
-9. #### Time Series(Coming Soon)
-10. #### Computer Vision(Coming Soon)
-11. #### Fundamentals of Neural Network(Coming Soon)
+9. #### Time Series - https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
+10. #### Computer Vision - https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e
+11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
