@@ -99,8 +99,8 @@ The goal of this level is to learn the core machine learning concepts and algori
         3. Bayes Theorem
         4. Uniform Distribution
         5. Binomial Distribution
-        6. Bernaulli Distribution
-        7. Poission Distribution
+        6. Bernoulli Distribution
+        7. Poisson Distribution
         8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY
 5. #### Linear Algebra Basics
         1. Representing Tabular Data
