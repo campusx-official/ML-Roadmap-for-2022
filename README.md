@@ -137,7 +137,8 @@ The goal of this level is to learn the core machine learning concepts and algori
 11. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
 12. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
 13. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
-
+14. #### Machine Learning Projects - https://www.youtube.com/watch?v=1xtrIEwY_zY&list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ
+15. #### Data Science Podcasts - https://www.youtube.com/watch?v=mxp2r2msfC4&list=PLKnIA16_RmvZKbsDyfY86U_fcTqylNW8H
 ## 3. Learn Practical Concepts (Est. time 6-8 Weeks)
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
@@ -255,7 +256,7 @@ This is the level where you would dive into different domains of Machine Learnin
          4. Email Spam Classifier Project - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
-10. #### Computer Vision(Coming Soon)
+10. #### Computer Vision -
 11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
