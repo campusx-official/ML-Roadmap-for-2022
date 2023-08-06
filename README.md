@@ -245,8 +245,8 @@ This is the level where you would dive into different domains of Machine Learnin
         1. Association Rule Mining(Apriori Algorithm) - https://www.youtube.com/watch?v=guVvtZ7ZClw
         2. Eclat Algorithm - https://www.youtube.com/watch?v=oBiq8cMkTCU
         3. Market Basket Analysis - https://www.youtube.com/watch?v=Y7Xkqqfz1UU
-7. #### Anamoly Detection
-        1. Anamoly Detection Lecture from Microsoft Research - https://www.youtube.com/watch?v=12Xq9OLdQwQ
+7. #### Anomaly Detection
+        1. Anomaly Detection Lecture from Microsoft Research - https://www.youtube.com/watch?v=12Xq9OLdQwQ
         2. Novelty Detection Lecture - https://www.youtube.com/watch?v=vIDcjbpwY3k
 10. #### NLP
          1. Complete NLP Roadmap - https://www.youtube.com/watch?v=PKv_okm1H-k
@@ -265,13 +265,13 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 1. 8 types of Projects for your portfolio - https://www.youtube.com/watch?v=SQHfry4xmdM
 2. How to select a project - https://www.youtube.com/watch?v=kH--k1VKFt4
 3. Car Price Predictor - https://www.youtube.com/watch?v=iRCaMnR_bpA
-4. Banglore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
+4. Bangalore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
 5. Posture Detection using ML5.js - https://www.youtube.com/watch?v=kRvIcdLhDtU
 6. Laptop Price Predictor - https://www.youtube.com/watch?v=BgpM2IiCH6k
 7. Which bollywood celebrity are you? - https://www.youtube.com/watch?v=X67rclJcIL0
 8. Finding similar GOT characters - https://www.youtube.com/watch?v=ygGknomFEWY
 9. IPL win probability predictor - https://www.youtube.com/watch?v=ygGknomFEWY
-10. T20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+10. T-20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
 11. Titanic Survivor Prediction - https://www.youtube.com/watch?v=Bnp94fpxZjY
 12. Diabetes Prediction using ML - https://www.youtube.com/watch?v=xUE7SjVx9bQ
 13. Fake news prediction - https://www.youtube.com/watch?v=nacLBdyG6jE
