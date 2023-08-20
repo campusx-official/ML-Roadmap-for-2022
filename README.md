@@ -249,14 +249,14 @@ This is the level where you would dive into different domains of Machine Learnin
         1. Anamoly Detection Lecture from Microsoft Research - https://www.youtube.com/watch?v=12Xq9OLdQwQ
         2. Novelty Detection Lecture - https://www.youtube.com/watch?v=vIDcjbpwY3k
 10. #### NLP
-         1. Complete NLP Roadmap - https://www.youtube.com/watch?v=PKv_okm1H-k
+         1. Complete NLP Roadmap --- https://www.youtube.com/watch?v=PKv_okm1H-k
          2. Complete NLP Playlist - https://www.youtube.com/watch?v=zlUpTlaxAKI&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX
          3. NLP Project Ideas - https://www.youtube.com/watch?v=oWJe2T29kAo
          4. Email Spam Classifier Project - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
 10. #### Computer Vision(Coming Soon)
-11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+11. #### Fundamentals of Neural Network --- https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
