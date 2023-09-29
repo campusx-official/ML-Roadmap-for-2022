@@ -7,6 +7,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 3. ### Learning Practical Concepts
 4. ### Diving into different domains
 5. ### Pushing it with Projects
+   
 
 
 ## 1. Testing the waters (Est. time 6-8 Weeks)
@@ -282,3 +283,4 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 18. Link for 500+ ML+DL projects - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 
+### Trail changes
