@@ -92,7 +92,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         4. Confidence Interval
         5. Hypothesis Testing
         6. Chisquare Test, Anova Test
-        7. Playlist link - https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g 
+        7. Playlist link - https://www.youtube.com/watch?v=KgkBxLtXDQU&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&index=4&ab_channel=KrishNaikHindi
 3. #### Probability Basics
         1. Conditional Probability
         2. Independent Events
