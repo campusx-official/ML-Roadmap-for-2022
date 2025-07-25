@@ -136,7 +136,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 10. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
 11. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
 12. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
-13. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98
+13. #### Cross-Validation - **https://www.youtube.com/watch?v=S5NkE-xgx98**First Try
 
 ## 3. Learn Practical Concepts (Est. time 6-8 Weeks)
 
