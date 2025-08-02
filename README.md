@@ -280,5 +280,5 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 16. Handwriting Classifier - https://www.youtube.com/watch?v=1B3YIkyPNk0
 17. Flight Fare Prediction - https://www.youtube.com/watch?v=y4EMEpEnElQ
 18. Link for 500+ ML+DL projects - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-
+19. score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
 
