@@ -80,6 +80,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 
 
 ## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
+https://github.com/AbdulRaheempro/ML-Roadmap-for-2024
 
 The goal of this level is to learn the core machine learning concepts and algorithms
 
