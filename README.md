@@ -143,7 +143,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
 
 1. #### Data Acquisition (Est. time - 2 Days)
-        1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988
+        1. Web Scraping - 
                 * Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
         2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
                 * Project - Create a Pandas dataframe of movies from TMDB API.
@@ -256,7 +256,7 @@ This is the level where you would dive into different domains of Machine Learnin
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
 10. #### Computer Vision(Coming Soon)
-11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+11. #### Fundamentals of Neural Network - 
 
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
@@ -279,6 +279,6 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 15. Gold Price Prediction - https://www.youtube.com/watch?v=9ffkBvh8PTQ
 16. Handwriting Classifier - https://www.youtube.com/watch?v=1B3YIkyPNk0
 17. Flight Fare Prediction - https://www.youtube.com/watch?v=y4EMEpEnElQ
-18. Link for 500+ ML+DL projects - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+18. Link for 500+ ML+DL projects - httphttps://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNns://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 
