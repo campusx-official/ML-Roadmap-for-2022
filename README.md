@@ -255,7 +255,7 @@ This is the level where you would dive into different domains of Machine Learnin
          4. Email Spam Classifier Project - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
-10. #### Computer Vision(Coming Soon)
+10. #### Computer Vision(Coming Soon) https://youtu.be/qhomKbL-mHw?si=kE0F5cCKYBqGSfEn
 11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
@@ -280,5 +280,3 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 16. Handwriting Classifier - https://www.youtube.com/watch?v=1B3YIkyPNk0
 17. Flight Fare Prediction - https://www.youtube.com/watch?v=y4EMEpEnElQ
 18. Link for 500+ ML+DL projects - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-
-
