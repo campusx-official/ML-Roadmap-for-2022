@@ -258,6 +258,7 @@ This is the level where you would dive into different domains of Machine Learnin
 10. #### Computer Vision(Coming Soon)
 11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
+12. #### LLMs
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
 The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
