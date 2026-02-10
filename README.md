@@ -257,6 +257,7 @@ This is the level where you would dive into different domains of Machine Learnin
 9. #### Time Series(Coming Soon)
 10. #### Computer Vision(Coming Soon)
 11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+12. #### Practical Deep Learning using PyTorch - https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=BqJ9yrGnyFxeZL5G
 
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
