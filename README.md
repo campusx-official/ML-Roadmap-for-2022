@@ -84,7 +84,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 The goal of this level is to learn the core machine learning concepts and algorithms
 
 1. #### Learn about tensors (Est. time - 1 Day)
-        1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
+        1. What are Tensor? - https://www.youtube.com/watch?v=vVhD2EyS41Y
 2. #### Advance Statistics
         1. Covariance
         2. Pearson Correlation Coefficient
