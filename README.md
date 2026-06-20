@@ -78,6 +78,10 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         14. Working with JSON and SQL data - https://www.youtube.com/watch?v=fFwRC-fapIU
         15. Building an End to End Machine Learning Project - https://www.youtube.com/watch?v=dr7z7a_8lQw
 
+9. #### Time Series (Comming Soon)
+10. #### Computer Vision (Comming Soon)
+11. #### Fundamentals of Neural Networks :- https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+
 
 ## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
 
