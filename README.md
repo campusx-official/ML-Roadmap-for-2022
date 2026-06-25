@@ -107,8 +107,8 @@ The goal of this level is to learn the core machine learning concepts and algori
         2. Vectors
         3. Matrices
         4. Matrix Multiplication
-        5. Dot Product
-        6. Equation of line in N-dim
+        5. Dot Products
+        6. Equation of line in N-dimension
         7. Eigen Vector and Eigen Values
         8. Playlist Link - https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA
 7. #### Basics of Calculus
