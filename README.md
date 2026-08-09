@@ -18,7 +18,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         2. OOP in Python
            - Lecture 1 - https://www.youtube.com/watch?v=1s869EfxoDo
            - Lecture 2 - https://www.youtube.com/watch?v=8To-A6VPL90
-        3. Advance Topics
+        3. Advanced Topics
            - File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0
            - Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8
            - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o
@@ -71,7 +71,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         7. Challenges in Machine Learning - https://www.youtube.com/watch?v=WGUNAJki2S4
         8. Applications of Machine Learning - https://www.youtube.com/watch?v=UZio8TcTMrI
         9. Machine Learning Development Lifecycle - https://www.youtube.com/watch?v=iDbhQGz_rEo
-        10. Data Engineer V Data Analyst V Data Scientist V ML Engineer - https://www.youtube.com/watch?v=93rKZs0MkgU
+        10. Data Engineer vs. Data Analyst vs. Data Scientist vs. ML Engineer - https://www.youtube.com/watch?v=93rKZs0MkgU
         11. How to frame a Machine Learning problem? - https://www.youtube.com/watch?v=A9SezQlvakw
         12. Installing and using software for data science - https://www.youtube.com/watch?v=82P5N2m41jE
         13. How to work with CSV files? - https://www.youtube.com/watch?v=a_XrmKlaGTs
@@ -85,7 +85,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 1. #### Learn about tensors (Est. time - 1 Day)
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
-2. #### Advance Statistics
+2. #### Advanced Statistics
         1. Covariance
         2. Pearson Correlation Coefficient
         3. QQ Plot
@@ -99,8 +99,8 @@ The goal of this level is to learn the core machine learning concepts and algori
         3. Bayes Theorem
         4. Uniform Distribution
         5. Binomial Distribution
-        6. Bernaulli Distribution
-        7. Poission Distribution
+        6. Bernoulli Distribution
+        7. Poisson Distribution
         8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY
 5. #### Linear Algebra Basics
         1. Representing Tabular Data
@@ -128,11 +128,11 @@ The goal of this level is to learn the core machine learning concepts and algori
         10. Adaboost - https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6
         11. Gradient Boosting - https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw
         12. Xgboost - https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4
-        13. Principle Component Analysis (PCA) - https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD
+        13. Principal Component Analysis (PCA) - https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD
         14. KMeans Clustering - https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9
-        15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
+        15. Hierarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
-        17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM and https://distill.pub/2016/misread-tsne/
+        17. t-SNE - https://www.youtube.com/watch?v=NEaUSP4YerM and https://distill.pub/2016/misread-tsne/
 10. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
 11. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk
 12. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
@@ -156,22 +156,22 @@ The goal of this level is to get you introduced to the practical side of machine
         6. MICE - https://www.youtube.com/watch?v=a38ehxv3kyk
         7. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
 5. #### Feature Scaling/Normalization (Est. time - 2 Days)
-        1. Standarization - https://www.youtube.com/watch?v=1Yw9sC0PNwY
+        1. Standardization - https://www.youtube.com/watch?v=1Yw9sC0PNwY
         2. Normalization - https://www.youtube.com/watch?v=eBrGyuA2MIg
 7. #### Feature Encoding Techniques (Est. time - 2 Days)
-        1. Ordinal Enconding and Label Encoding - https://www.youtube.com/watch?v=w2GglmYHfmM
+        1. Ordinal Encoding and Label Encoding - https://www.youtube.com/watch?v=w2GglmYHfmM
         2. One Hot Encoding - https://www.youtube.com/watch?v=U5oCv3JKWKA
         3. Encoding high cardinality categorical features - https://www.kaggle.com/general/16927
         4. Feature hashing - https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/
-9. #### Feature Transformation(Est. time - 2 Days)
+9. #### Feature Transformation (Est. time - 2 Days)
         1. Log Transform - https://www.youtube.com/watch?v=cTjj3LE8E90
         2. Box Cox Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
-        3. Yeo Johnson Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
+        3. Yeo-Johnson Transform - https://www.youtube.com/watch?v=lV_Z4HbNAx0
         4. Discretization - https://www.youtube.com/watch?v=kKWsJGKcMvo
 11. #### Working with Pipelines(Est. time - 2 Days)
         1. Column Transformer - https://www.youtube.com/watch?v=5TVj6iEBR4I
-        2. Sklearn Pipelines - https://www.youtube.com/watch?v=xOccYkgRV4Q
-13. #### Handing Time and Date data(Est. time - 1 Day)
+        2. scikit-learn Pipelines - https://www.youtube.com/watch?v=xOccYkgRV4Q
+13. #### Handling Time and Date Data(Est. time - 1 Day)
         1. Working with time and date data - https://www.youtube.com/watch?v=J73mvgG9fFs
 15. #### Working with Outliers (Est. time - 3 Days)
         1. What are Outliers? - https://www.youtube.com/watch?v=Lln1PKgGr_M
@@ -186,7 +186,7 @@ The goal of this level is to get you introduced to the practical side of machine
          3. Backward Feature Elimination - https://www.youtube.com/watch?v=zW1SvA0Z-l4&t=2s
          4. Dropping features using Pearson correlation coefficient - https://www.youtube.com/watch?v=FndwYNcVe0U
          5. Feature Importance using Random Forest - https://www.youtube.com/watch?v=R47JAob1xBY
-         6. Feature Selection Advise - https://www.youtube.com/watch?v=YaKMeAlHgqQ
+         6. Feature Selection Advice - https://www.youtube.com/watch?v=YaKMeAlHgqQ
 21. #### Cross Validation (Est. time - 2 Days)
          1. What is cross-validation? - https://www.youtube.com/watch?v=fSytzGwwBVw
          2. Holdout Method - https://www.youtube.com/watch?v=4NnI3SBuww4
@@ -206,7 +206,7 @@ The goal of this level is to get you introduced to the practical side of machine
          1. How to handle imbalanced data - https://www.youtube.com/watch?v=JnlM4yLFNuo
          2. Kaggle Notebook - https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
          3. SMOTE on Quora Dataset - https://www.kaggle.com/theoviel/dealing-with-class-imbalance-with-smote
-28. #### Handling Multicollinearity(Est. time - 2 Days)
+28. #### Handling Multicollinearity (Est. time - 2 Days)
          1. What is multicollinearity? - https://www.youtube.com/watch?v=ekuD8JUdL6M
          2. Practical Example - https://www.youtube.com/watch?v=ATH4urDitI8
          3. VIF in Multicollinearity - https://www.youtube.com/watch?v=GMAp_tP1ZQ0
@@ -242,10 +242,10 @@ This is the level where you would dive into different domains of Machine Learnin
         2. Book Recommender System - https://www.youtube.com/watch?v=sf93xpq8vaA
         3. Fashion Recommender System - https://www.youtube.com/watch?v=xanJe6e8Xuw
 5. #### Association Rule Learning
-        1. Association Rule Mining(Apriori Algorithm) - https://www.youtube.com/watch?v=guVvtZ7ZClw
+        1. Association Rule Mining (Apriori Algorithm) - https://www.youtube.com/watch?v=guVvtZ7ZClw
         2. Eclat Algorithm - https://www.youtube.com/watch?v=oBiq8cMkTCU
         3. Market Basket Analysis - https://www.youtube.com/watch?v=Y7Xkqqfz1UU
-7. #### Anamoly Detection
+7. #### Anomaly Detection
         1. Anamoly Detection Lecture from Microsoft Research - https://www.youtube.com/watch?v=12Xq9OLdQwQ
         2. Novelty Detection Lecture - https://www.youtube.com/watch?v=vIDcjbpwY3k
 10. #### NLP
@@ -265,13 +265,13 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 1. 8 types of Projects for your portfolio - https://www.youtube.com/watch?v=SQHfry4xmdM
 2. How to select a project - https://www.youtube.com/watch?v=kH--k1VKFt4
 3. Car Price Predictor - https://www.youtube.com/watch?v=iRCaMnR_bpA
-4. Banglore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
+4. Bangalore House Price Predictor - https://www.youtube.com/watch?v=DVxkI1VmpCk
 5. Posture Detection using ML5.js - https://www.youtube.com/watch?v=kRvIcdLhDtU
 6. Laptop Price Predictor - https://www.youtube.com/watch?v=BgpM2IiCH6k
 7. Which bollywood celebrity are you? - https://www.youtube.com/watch?v=X67rclJcIL0
 8. Finding similar GOT characters - https://www.youtube.com/watch?v=ygGknomFEWY
-9. IPL win probability predictor - https://www.youtube.com/watch?v=ygGknomFEWY
-10. T20 score predictor - https://www.youtube.com/watch?v=ygGknomFEWY
+9. IPL win probability predictor - https://www.youtube.com/watch?v=jUt7bEeNl9U
+10. T20 score predictor - https://www.youtube.com/watch?v=tZd1okZiijo
 11. Titanic Survivor Prediction - https://www.youtube.com/watch?v=Bnp94fpxZjY
 12. Diabetes Prediction using ML - https://www.youtube.com/watch?v=xUE7SjVx9bQ
 13. Fake news prediction - https://www.youtube.com/watch?v=nacLBdyG6jE
