@@ -7,7 +7,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 3. ### Learning Practical Concepts
 4. ### Diving into different domains
 5. ### Pushing it with Projects
-
+/
 
 ## 1. Testing the waters (Est. time 6-8 Weeks)
 
